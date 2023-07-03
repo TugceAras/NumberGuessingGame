@@ -1,4 +1,4 @@
-# NumberGuessingGame 
+# <p align="center"> Number Guessing Game </p>
 - This is the first homework given by UpSchool.
 
 ## Language Used 👇
